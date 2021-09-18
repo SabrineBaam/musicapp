@@ -1,5 +1,5 @@
-const clientID = '5aa3e0e3eb334fd9b32fe7391b2c4efe';
-const redURI = 'http://localhost:3000/';
+const clientID = 'your spotify id';
+const redURI = 'redirection uri';
 let accessToken = '';
 let expiresIn = '';
 
